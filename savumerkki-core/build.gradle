@@ -42,7 +42,7 @@ dependencies {
   
   // Microsoft Azure vault
   // https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/keyvault/azure-security-keyvault-secrets
-  implementation 'com.azure:azure-security-keyvault-secrets:4.5.0'
+  implementation 'com.azure:azure-security-keyvault-secrets:4.5.2'
   
   // Hashicorp Vault
   // https://bettercloud.github.io/vault-java-driver/
